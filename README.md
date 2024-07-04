@@ -14,7 +14,7 @@
 
 ### 添加 Cookie 至 Secrets
 
-点击Settings -> 点击选项卡 Secrets and variables -> 点击Actions -> New repository secret
+点击Settings -> 点击 选项卡 Secrets and variables -> 点击Actions -> New repository secret
 
 建立名为 `SKLAND_TOKEN` 的 secret，值为上一步获取 content，最后点击 Add secret，如果需要多账号支持，请使用半角逗号`,`分割
 
