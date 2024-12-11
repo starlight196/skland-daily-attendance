@@ -26,7 +26,7 @@
 
 #### 推送服务
 
-- 支持 server 酱推送每日签到信息，建立名为 `SERVERCHAN_SENDKEY` 的 secret 填入你 server 酱的推送密钥
+- 支持 server 酱推送每日好吧好吧签到信息，建立名为 `SERVERCHAN_SENDKEY` 的 secret 填入你 server 酱的推送密钥
 
 - 支持 bark 推送每日签到信息，建立名为 `BARK_URL` 的 secret 填入你 bark 的推送地址，例如 `https://api.day.app/xxxxxxxxxx/`，支持自建服务器
 
