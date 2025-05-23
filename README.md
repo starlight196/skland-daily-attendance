@@ -15,7 +15,7 @@
 点击本仓库右上角 `Fork` 到自己的账号下
 
 ### 获取凭据
-
+ 
 登录森空岛网页版后，打开 https://web-api.skland.com/account/info/hg 记下 content 字段的值
 
 ### 添加 Cookie 至 Secrets
